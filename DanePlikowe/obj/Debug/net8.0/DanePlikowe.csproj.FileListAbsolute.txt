@@ -1,0 +1,14 @@
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\bin\Debug\net8.0\DanePlikowe.exe
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\bin\Debug\net8.0\DanePlikowe.deps.json
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\bin\Debug\net8.0\DanePlikowe.runtimeconfig.json
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\bin\Debug\net8.0\DanePlikowe.dll
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\bin\Debug\net8.0\DanePlikowe.pdb
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\obj\Debug\net8.0\DanePlikowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\obj\Debug\net8.0\DanePlikowe.AssemblyInfoInputs.cache
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\obj\Debug\net8.0\DanePlikowe.AssemblyInfo.cs
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\obj\Debug\net8.0\DanePlikowe.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\obj\Debug\net8.0\DanePlikowe.dll
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\obj\Debug\net8.0\refint\DanePlikowe.dll
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\obj\Debug\net8.0\DanePlikowe.pdb
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\obj\Debug\net8.0\DanePlikowe.genruntimeconfig.cache
+C:\Users\Jarek\source\repos\DanePlikowe\DanePlikowe\obj\Debug\net8.0\ref\DanePlikowe.dll

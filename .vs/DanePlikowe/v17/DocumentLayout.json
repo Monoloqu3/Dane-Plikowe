@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jarek\\source\\repos\\DanePlikowe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9CBE7D-36E7-4D46-8D77-C631D8020BB6}|DanePlikowe\\DanePlikowe.csproj|c:\\users\\jarek\\source\\repos\\daneplikowe\\daneplikowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F9CBE7D-36E7-4D46-8D77-C631D8020BB6}|DanePlikowe\\DanePlikowe.csproj|solutionrelative:daneplikowe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jarek\\source\\repos\\DanePlikowe\\DanePlikowe\\Program.cs",
+              "RelativeDocumentMoniker": "DanePlikowe\\Program.cs",
+              "ToolTip": "C:\\Users\\Jarek\\source\\repos\\DanePlikowe\\DanePlikowe\\Program.cs",
+              "RelativeToolTip": "DanePlikowe\\Program.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAuwC8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:47:08.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
